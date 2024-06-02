@@ -1,0 +1,143 @@
+Demo
+-----
+What is Software?
+
+A code written in a programming language converted into an executable file which is used by an end user is software.
+
+Application or App
+------------------
+1.Desktop Application --->Notepad, Paint, Ms office
+2.Web Application ------->Chrome,Firefox,Safari,Opera, Etc.,
+3.Mobile Application----->Native mobile applications
+
+Software Testing----> Java with Selenium
+
+To deliver a flawless product to the customer
+
+
+Development ----> Develop the application
+Testing --------> Test the application
+-------------------------------------------------------------------------------------------------------------------------------
+
+Client or Customer--->Business--->Chennai--->Expand his business--->App Creation---->Set of Requirements--->IT company-->Team Formation
+---->Development--->Testing---> Product Launch
+
+Testing
+--------
+
+Comparing the actual (developer build) and expected (Client requirements).If there is anyu mismatch between those requirements we will raise it as a bug and then assign to the concern developer.
+
+Types of testing
+----------------
+Manual Testing  --->Human effort ---> No coding knowledge---->Excel Knowledge---> Test Cases will be written in the excel sheet.
+Automation Testing --->Coding knowledge (Java) + Automation tools (Selenium)
+
+100% Automation is not possible ----> Because we cant automate few things like Capcha
+Larger applications ----> 60% manual and 40% Automation Testing.
+
+Limitations of manual testing
+-----------------------------
+1.Time Cumsumption
+2.Error Prone
+3.Tedious Task
+
+==========================================================================================
+Manual Testing Concepts
+------------------------
+Automation Testing
+-------------------
+Java
+Selenium
+Cucumber
+TestNG
+GIT
+Maven
+Jira
+Jenkins
+SQL
+
+Project Session
+----------------
+
+Self Intro
+Project Explanation
+Roles and responsibilites
+Day to Day Activities
+--------------------------------------
+
+Recorded
+Daily Notes
+1 Hour
+
+Task--->1 Hour---> Hand on Practice
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
